@@ -1,5 +1,5 @@
 -- ADIM 2: SQL Server Authentication ve Windows Authentication
--- BLM4522 - Proje 3: Veritabanı Güvenliği ve Erişim Kontrolü
+
 
 USE WideWorldImporters;
 

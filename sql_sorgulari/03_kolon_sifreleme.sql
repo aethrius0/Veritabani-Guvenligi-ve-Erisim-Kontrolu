@@ -1,5 +1,5 @@
 -- ADIM 3: Kolon Bazlı Şifreleme
--- BLM4522 - Proje 3: Veritabanı Güvenliği ve Erişim Kontrolü
+
 -- NOT: SQL Server Express TDE desteklemediğinden kolon şifreleme uygulandı
 
 USE WideWorldImporters;

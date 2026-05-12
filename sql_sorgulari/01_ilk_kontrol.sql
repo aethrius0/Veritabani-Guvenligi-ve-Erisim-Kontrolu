@@ -1,5 +1,5 @@
 -- ADIM 1: Veritabanı Tanıma ve İlk Güvenlik Kontrolü
--- BLM4522 - Proje 3: Veritabanı Güvenliği ve Erişim Kontrolü
+
 
 USE WideWorldImporters;
 

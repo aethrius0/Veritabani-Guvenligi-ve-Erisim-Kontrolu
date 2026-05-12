@@ -1,5 +1,5 @@
 -- ADIM 4: SQL Injection Testleri ve Korunma
--- BLM4522 - Proje 3: Veritabanı Güvenliği ve Erişim Kontrolü
+
 
 USE WideWorldImporters;
 
